@@ -1,6 +1,10 @@
 # 💳 AI-Powered Financial Tools
 
-A Streamlit-based suite integrating AI for payment code generation, voice assistant, real-time fraud detection, and a knowledge base for payment-related queries.
+PayCrypt is an advanced Streamlit-based platform that brings the power of Artificial Intelligence to modern financial workflows. Designed for developers, fintech teams, and security analysts, it streamlines payment integration, assists users via voice, monitors transaction fraud in real time, and builds a self-improving knowledge base using generative AI.
+
+Whether you're a developer needing instant payment integration code, a support agent looking for quick payment answers, or a fraud analyst monitoring transactions, PayCrypt provides an all-in-one, intelligent solution — right from your browser.
+
+🔐 Built with a focus on security, scalability, and user-friendly design, this tool demonstrates how AI can enhance productivity, automation, and safety in financial systems.
 
 ---
 
