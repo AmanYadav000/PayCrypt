@@ -38,14 +38,18 @@ A Streamlit-based suite integrating AI for payment code generation, voice assist
  cd <your-repo-folder>
 ```
 2. **Install Dependencies**
-- pip install streamlit google-generativeai speechrecognition pandas numpy scikit-learn langchain-google-genai
-
+```bash
+pip install streamlit google-generativeai speechrecognition pandas numpy scikit-learn langchain-google-genai
+```
 3. **Set Up Google Gemini API Key**
-- Get your Gemini API key from Google AI Studio.
-- Replace `"Your API Key"` in the code with your actual key.
-
+```bash
+Get your Gemini API key from Google AI Studio.
+Replace `"Your API Key"` in the code with your actual key.
+```
+```bash
 4. **Run the App**
-- streamlit run <your_main_script>.py
+streamlit run <your_main>.py
+```
 
 
 ---
