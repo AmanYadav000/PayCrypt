@@ -33,8 +33,9 @@ A Streamlit-based suite integrating AI for payment code generation, voice assist
 ## Setup
 
 1. **Clone the Repository**
-- git clone <your-repo-url>
-- cd <your-repo-folder>
+```bash
+ git clone <your-repo-url>
+ cd <your-repo-folder>
 
 2. **Install Dependencies**
 - pip install streamlit google-generativeai speechrecognition pandas numpy scikit-learn langchain-google-genai
@@ -120,12 +121,3 @@ MIT License
 - [LangChain](https://python.langchain.com/)
 
 ---
-
-## File Structure
-
-├── main.py
-├── gemini_payment_knowledge_base.json
-├── requirements.txt
-└── README.md
-
-text
