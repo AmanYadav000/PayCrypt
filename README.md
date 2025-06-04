@@ -78,7 +78,7 @@ streamlit run Combined_final_code.py
 - View each transaction's risk score and see fraud alerts in real time.
 - Click **Stop Monitoring** to pause and see a summary of fraud alerts.
 
-![Isolation Forest](images/Screenshot 2025-03-21 111116.png)
+![Isolation Forest](images/Screenshot2025-03-21111116.png)
 
 ### 4. Payment Knowledge Base Automation
 
@@ -106,9 +106,9 @@ Custom CSS is injected via `st.markdown` for a modern look.
 
 ## Example Screenshots
 
-![Alt text](images/Screenshot 2025-03-21 101103.png)
-![Alt text](images/Screenshot 2025-03-21 111821.png)
-![Alt text](images/Screenshot 2025-03-21 102710.png)
+![Alt text](images/Screenshot2025-03-21101103.png)
+![Alt text](images/Screenshot2025-03-21111821.png)
+![Alt text](images/Screenshot2025-03-21102710.png)
 
 ---
 
