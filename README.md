@@ -34,8 +34,8 @@ A Streamlit-based suite integrating AI for payment code generation, voice assist
 
 1. **Clone the Repository**
 ```bash
- git clone <your-repo-url>
- cd <your-repo-folder>
+ git clone https://github.com/AmanYadav000/PayCrypt.git
+ cd PayCrypt
 ```
 2. **Install Dependencies**
 ```bash
@@ -46,9 +46,10 @@ pip install streamlit google-generativeai speechrecognition pandas numpy scikit-
 Get your Gemini API key from Google AI Studio.
 Replace `"Your API Key"` in the code with your actual key.
 ```
-```bash
+
 4. **Run the App**
-streamlit run <your_main>.py
+```bash
+streamlit run Combined_final_code.py
 ```
 
 
